@@ -86,5 +86,5 @@ resource "aws_security_group_rule" "sec_group_allow_itself" {
   source_security_group_id = aws_security_group.vprofile-backend-sg.id
 }
 
-  
+
 
