@@ -70,26 +70,26 @@ variable VpcCIDR {
   default = "172.21.0.0/16"
 }
 
-variable PubSUb1CIDR {
+variable PubSub1CIDR {
   default = "172.21.1.0/24"
 }
 
-variable PubSUb2CIDR {
+variable PubSub2CIDR {
   default = "172.21.2.0/24"
 }
 
-variable PubSUb3CIDR {
+variable PubSub3CIDR {
   default = "172.21.3.0/24"
 }
 
-variable PrivSUb1CIDR {
+variable PrivSub1CIDR {
   default = "172.21.4.0/24"
 }
 
-variable PrivSUb2CIDR {
+variable PrivSub2CIDR {
   default = "172.21.5.0/24"
 }
 
-variable PrivSUb3CIDR {
+variable PrivSub3CIDR {
   default = "172.21.6.0/24"
 }
